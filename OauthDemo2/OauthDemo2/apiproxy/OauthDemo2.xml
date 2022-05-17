@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="OauthDemo2">
+    <Basepaths>/oauthdemo2</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1643776909611</CreatedAt>
+    <CreatedBy>benit.jose@infosys.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>OauthDemo2</DisplayName>
+    <LastModifiedAt>1643777484921</LastModifiedAt>
+    <LastModifiedBy>benit.jose@infosys.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:514af578b7f54ecc122d5c9ad953a242bf64f14a901a17f69805047de38e7b87311a7d8bc5ee26cbf0e49b0458427d2ed6a271667ab67f02afa015f6a1540dcd:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>JSON-to-XML-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
